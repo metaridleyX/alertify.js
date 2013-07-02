@@ -1,9 +1,9 @@
 .alertify-dialog {
   width: 550px;
   margin-left: -275px;
-  background: #FFF;
-  border: 10px solid #333333;
-  border: 10px solid rgba(0, 0, 0, 0.7);
+  background: #2B2A42;
+  border: 10px solid #33334F;
+  border: 10px solid rgba(51, 51, 79, 0.7);
   border-radius: 8px;
   box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
   -webkit-background-clip: padding;
@@ -17,7 +17,7 @@
   text-align: center; }
 
 .alertify-text {
-  border: 1px solid #cccccc;
+  border: 1px solid #EBEBF7;
   padding: 10px;
   border-radius: 4px; }
 
